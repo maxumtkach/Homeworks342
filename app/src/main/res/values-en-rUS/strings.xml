@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Locale Application</string>
+    <string name="text_lang">english version</string>
+    <string name="lang_text_en">Lang en</string>
+    <string name="lang_text_ru">Lang ru</string>
+    <string name="textView_text">English version</string>
+    <string name="lang_item">Choose language</string>
+    <string name="indents">Choose indent</string>
+    <string name="button_colors">ok</string>
+    <string name="LANG_ENGLISH_STRING">english</string>
+    <string name="LANG_RUS_STRING">russian</string>
+    <string name="MARGIN1_RU">small</string>
+    <string name="MARGIN3_RU">medium</string>
+    <string name="MARGIN10_RU">large</string>
+    <string-array name="language">
+        <item></item>
+        <item>russian</item>
+        <item>english</item>
+    </string-array>
+    <string-array name="indents">
+        <item></item>
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+    </string-array>
+</resources>

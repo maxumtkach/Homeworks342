@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Homeworks 4-4-2</string>
+    <string name="text_lang">Русскоязычная версия</string>
+    <string name="lang_text_en">английский</string>
+    <string name="lang_text_ru">русский</string>
+    <string name="textView_text">Русскоязычая версия</string>
+    <string name="lang_item">Выберите язык</string>
+    <string name="indents">Выберите отступы</string>
+    <string name="button_colors">ок</string>
+    <string name="LANG_ENGLISH_STRING">английский</string>
+    <string name="LANG_RUS_STRING">русский</string>
+    <string name="MARGIN1_RU">мелкие</string>
+    <string name="MARGIN3_RU">средние</string>
+    <string name="MARGIN10_RU">крупные</string>
+    <string-array name="language" tools:ignore="InconsistentArrays">
+        <item></item>
+        <item>русский</item>
+        <item>английский</item>
+    </string-array>
+    <string-array name="indents" tools:ignore="InconsistentArrays">
+        <item></item>
+        <item>мелкие</item>
+        <item>средние</item>
+        <item>крупные</item>
+    </string-array>
+</resources>
