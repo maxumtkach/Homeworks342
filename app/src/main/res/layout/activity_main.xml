@@ -35,6 +35,8 @@
         android:id="@+id/spinner_indent"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:spinnerMode = "dialog"
+
         android:layout_marginBottom="50dp"
         app:layout_constraintBottom_toTopOf="@+id/textView_lang"
         app:layout_constraintEnd_toEndOf="parent"
